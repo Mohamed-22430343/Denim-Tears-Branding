@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "name": "Denim Tears Cotton Wreath Hoodie",
+            "price": "$150",
+            "image": ""
+        },
+        {
+            "name": "Denim Tears Jeans",
+            "price": "$200",
+            "image": ""
+        },
+        {
+            "name": "Denim Tears Hat",
+            "price": "$50",
+            "image": ""
+        }
+        {
+            "name": "Denim Tears SweatShirt",
+            "price": "$150",
+            "image": "https://denimtears.com/ke/products/leather-raglan-top",
+        }
+        { 
+            "name":"Denim Belt",
+            "price":"$300",
+            "image":"",
+        }
+    ]
+}
