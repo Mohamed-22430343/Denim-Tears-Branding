@@ -1,15 +1,14 @@
-# Denim Tears Inspired Store
-denim
+# Chino Tears Inspired Store
+Denim
 ## Overview
-This project is a Denim Tears-inspired e-commerce website built for a school project. It features a product listing page with interactive elements such as navigation and a shopping experience.
+This project is a Denim Tears-inspired e-commerce website built for shopping and fashion experiences
 
 ## Features
 - Dynamic product listing using `fetch`.
 - Three event listeners for interactive elements:
   1. Clicking on a product's "Buy Now" button triggers an alert.
   2. Clicking the "Shop" link displays a welcome message.
-  3. Clicking the "Contact" link displays an email contact alert.
-- Hover effects and smooth UI styling.
+  3. Clicking the "Contact" link displays an email contact 
 
 ## File Structure
 - `index.html` – The main HTML structure.
