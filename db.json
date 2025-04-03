@@ -14,13 +14,13 @@
             "name": "Denim Tears Hat",
             "price": "$50",
             "image": "assets/Denim Hat.webp"
-        }
+        },
         {
             "name": "Denim Tears SweatShirt",
             "price": "$150",
             "image": "assets/Denim Sweatshirt.webp"
-        }
-        { 
+        },
+        {
             "name":"Denim Belt",
             "price":"$300",
             "image":"assets/Denim Belt.webp"
